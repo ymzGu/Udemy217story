@@ -1,0 +1,2 @@
+code chapter1.txt 是在vscode中打开该文件并开始code的命令行
+这是最好的时代，也是最坏的时代
