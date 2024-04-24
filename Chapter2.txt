@@ -1,1 +1,2 @@
 我终于走入风，它是否也曾拂过你的嘴角。
+now try git alien branch again in Chapter2.txt
